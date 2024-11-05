@@ -1,5 +1,5 @@
 ---
-author: [Rubaiat Hossain](https://rubaiat-hossain.com/2023-10-11/writing-portfolio)
+author: [Rubaiat Hossain]
 ---
 
 # Equinix Metal Network Automation using Terraform
