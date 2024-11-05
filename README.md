@@ -6,7 +6,8 @@ This Terraform IaC configuration deploys two nodes in different Metros and conne
 
 * Replace the **project_id** in `terraform.tfvars` with your own `project_id`.
 * Save your Metal API Token in the environment variable `METAL_AUTH_TOKEN`.
-*  ````bash
+
+````bash
 terraform plan
 terraform apply
 ``
